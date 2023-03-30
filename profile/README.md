@@ -12,4 +12,4 @@ We believe in the power of open source software and the importance of giving bac
 
 ## Contact Us
 
-If you have any questions or comments about our GitHub profile or our projects, please feel free to contact us at [email address or link to contact form]. You can also visit our website at https://websolutions.netlogix.de/ to learn more about our services and solutions. Thank you for visiting our GitHub profile!
+If you have any questions or comments about our GitHub profile or our projects, please feel free to contact us at websolutions@netlogix.de. You can also visit our website at https://websolutions.netlogix.de/ to learn more about our services and solutions. Thank you for visiting our GitHub profile!
